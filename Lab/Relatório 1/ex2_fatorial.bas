@@ -1,4 +1,4 @@
-10 REM Gerar um número aleatório e calcular o fatorial
+10 REM MATHEUS VIEIRA - GES - 525
 20 N = RND(10)
 30 PRINT "Número aleatório: ";
 40 print N

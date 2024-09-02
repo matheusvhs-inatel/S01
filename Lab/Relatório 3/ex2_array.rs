@@ -6,7 +6,7 @@ fn preenche_arr(arr: &mut [i32], x: i32) {
 
 fn main() {
     let mut array = [0; 10];
-    let valor = 5; // Você pode mudar esse valor conforme necessário
+    let valor = 5;
 
     preenche_arr(&mut array, valor);
 

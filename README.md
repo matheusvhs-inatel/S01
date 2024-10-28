@@ -10,3 +10,5 @@
 4. [Go](https://github.com/matheusvhs/S01/tree/add3d155c160fd1f6dfd53b39a784df0c4746b35/Lab/Relat%C3%B3rio%204)
 5. [C++](https://github.com/matheusvhs/S01/tree/add3d155c160fd1f6dfd53b39a784df0c4746b35/Lab/Relat%C3%B3rio%205)
 6. [Javascript](https://github.com/matheusvhs/S01/tree/add3d155c160fd1f6dfd53b39a784df0c4746b35/Lab/Relat%C3%B3rio%206)
+7. [Ruby](https://github.com/matheusvhs/S01/tree/main/Lab/Relat%C3%B3rio%207)
+8. [Prolog 1](https://github.com/matheusvhs/S01/tree/main/Lab/Relat%C3%B3rio%209)

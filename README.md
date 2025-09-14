@@ -4,7 +4,7 @@
 
 ## Relatórios
 
-1. [BASIC](https://github.com/matheusvhs/S01/tree/add3d155c160fd1f6dfd53b39a784df0c4746b35/Lab/Relat%C3%B3rio%201)
+1. [BASIC](Lab/Relatório 01)
 2. [Lua](https://github.com/matheusvhs/S01/tree/add3d155c160fd1f6dfd53b39a784df0c4746b35/Lab/Relat%C3%B3rio%202)
 3. [Rust](https://github.com/matheusvhs/S01/tree/add3d155c160fd1f6dfd53b39a784df0c4746b35/Lab/Relat%C3%B3rio%203)
 4. [Go](https://github.com/matheusvhs/S01/tree/add3d155c160fd1f6dfd53b39a784df0c4746b35/Lab/Relat%C3%B3rio%204)

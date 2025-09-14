@@ -4,12 +4,13 @@
 
 ## Relatórios
 
-1. [BASIC](Lab/Relatório 01)
-2. [Lua](https://github.com/matheusvhs/S01/tree/add3d155c160fd1f6dfd53b39a784df0c4746b35/Lab/Relat%C3%B3rio%202)
-3. [Rust](https://github.com/matheusvhs/S01/tree/add3d155c160fd1f6dfd53b39a784df0c4746b35/Lab/Relat%C3%B3rio%203)
-4. [Go](https://github.com/matheusvhs/S01/tree/add3d155c160fd1f6dfd53b39a784df0c4746b35/Lab/Relat%C3%B3rio%204)
-5. [C++](https://github.com/matheusvhs/S01/tree/add3d155c160fd1f6dfd53b39a784df0c4746b35/Lab/Relat%C3%B3rio%205)
-6. [Javascript](https://github.com/matheusvhs/S01/tree/add3d155c160fd1f6dfd53b39a784df0c4746b35/Lab/Relat%C3%B3rio%206)
-7. [Ruby](https://github.com/matheusvhs/S01/tree/main/Lab/Relat%C3%B3rio%207)
-8. C#
-9. [Prolog 1](https://github.com/matheusvhs/S01/blob/main/Lab/Relat%C3%B3rio%209/ex1_prolog.pl)
+- [`Relatório 01`](/Lab/Relatório%2001/)
+- [`Relatório 02`](/Lab/Relatório%2002/)
+- [`Relatório 03`](/Lab/Relatório%2003/)
+- [`Relatório 04`](/Lab/Relatório%2004/)
+- [`Relatório 05`](/Lab/Relatório%2005/)
+- [`Relatório 06`](/Lab/Relatório%2006/)
+- [`Relatório 07`](/Lab/Relatório%2007/)
+- [`Relatório 09`](/Lab/Relatório%2009/)
+- [`Relatório 11`](/Lab/Relatório%2011/)
+- [`Relatório 12`](/Lab/Relatório%2012/)
